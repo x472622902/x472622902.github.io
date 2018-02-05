@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: shengguixue@gmail.com
 description: "Every failure is leading towards success."
 keyword: "java,spring,spring-boot,mysql,spring MVC,spring cloud"
-url: "http://xsg.github.io"          # your host, for absolute URL
+url: "https://xsg.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/x472622902/xsg.github.io.git" # you code repository
 
